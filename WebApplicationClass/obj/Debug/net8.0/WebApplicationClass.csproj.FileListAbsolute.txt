@@ -1,0 +1,11 @@
+C:\Users\44788\repos\WebApplication\WebApplicationClass\bin\Debug\net8.0\WebApplicationClass.deps.json
+C:\Users\44788\repos\WebApplication\WebApplicationClass\bin\Debug\net8.0\WebApplicationClass.dll
+C:\Users\44788\repos\WebApplication\WebApplicationClass\bin\Debug\net8.0\WebApplicationClass.pdb
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\WebApplicationClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\WebApplicationClass.AssemblyInfoInputs.cache
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\WebApplicationClass.AssemblyInfo.cs
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\WebApplicationClass.csproj.CoreCompileInputs.cache
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\WebApplicationClass.dll
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\refint\WebApplicationClass.dll
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\WebApplicationClass.pdb
+C:\Users\44788\repos\WebApplication\WebApplicationClass\obj\Debug\net8.0\ref\WebApplicationClass.dll
